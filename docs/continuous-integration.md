@@ -5,6 +5,14 @@ title: Continuous Integration
 
 pnpm can easily be used in various continuous integration systems.
 
+## CircleCI
+
+[CircleCI]: https://circleci.org
+
+## Netlify
+
+[Netlify]: http://netlify.com/
+
 ## Travis
 
 On [Travis CI], you can use pnpm for installing your dependencies by adding this
